@@ -1,10 +1,3 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0891b2&height=190&section=header&text=Favio520&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Computer%20Engineer%20%7C%20Data%20Analyst%20%26%20Data%20Scientist&descAlignY=62&descSize=18"
-    alt="Favio520 profile banner"
-    width="100%"
-  />
-</p>
 
 <h1 align="center">Favio520</h1>
 
