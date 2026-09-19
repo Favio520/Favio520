@@ -74,7 +74,7 @@ I’m currently deepening my understanding of advanced analytics, Azure data ser
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Favio520&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=cbd5e1"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Favio520&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=cbd5e1"
     alt="Most used programming languages"
   />
 </p>
